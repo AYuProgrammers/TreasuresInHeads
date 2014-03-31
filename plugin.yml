@@ -1,0 +1,5 @@
+name: TreasuresInHeads
+version: 0.1
+main: pl.AYuPro.TreasInHead.tih
+author: AYuPro
+description: Give random items for heads.
