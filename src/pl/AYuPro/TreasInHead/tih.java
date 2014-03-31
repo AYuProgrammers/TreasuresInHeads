@@ -76,6 +76,6 @@ public class tih extends JavaPlugin implements Listener {
 				pl.getInventory().addItem(new ItemStack(Material.getMaterial(veryrareitems.get(rand.nextInt(veryrareitems.size())))));
 			}
 			pl.updateInventory();
-			pl.sendMessage(ChatColor.BLUE + "[Treasures in Heads]"+ ChatColor.GOLD + " Вы получили вознаграждение за голову, удостоверьтесь что для его получения у вас было место в инвентаре.");
+			pl.sendMessage(ChatColor.BLUE + "[Treasures in Heads]"+ ChatColor.GOLD + " Р’С‹ РїРѕР»СѓС‡РёР»Рё РІРѕР·РЅР°РіСЂР°Р¶РґРµРЅРёРµ Р·Р° РіРѕР»РѕРІСѓ, СѓРґРѕСЃС‚РѕРІРµСЂСЊС‚РµСЃСЊ С‡С‚Рѕ РґР»СЏ РµРіРѕ РїРѕР»СѓС‡РµРЅРёСЏ Сѓ РІР°СЃ Р±С‹Р»Рѕ РјРµСЃС‚Рѕ РІ РёРЅРІРµРЅС‚Р°СЂРµ.";
 	}
 	}
